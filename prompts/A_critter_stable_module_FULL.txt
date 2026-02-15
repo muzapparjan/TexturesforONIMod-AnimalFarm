@@ -1,0 +1,25 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, clean readable silhouette, slightly exaggerated proportions, rounded corners, clear panel segmentation, subtle brush texture, soft shading with a consistent top light, gentle ambient occlusion in seams, minimal but purposeful details (bolts, vents, labels), not photorealistic.
+
+This is a ranch / critter husbandry building for raising small creatures.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to match a 5 tiles wide x 3 tiles tall footprint (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Critter Stable Module (clean ranch)
+- Left 3/5 of the width: a pen bay with a transparent viewing window (simple glass highlight) showing a simplified cute critter silhouette inside (round body shape, minimal detail).
+- Bottom edge: a feeding trough and a small removable tray.
+- Right 2/5: a control cabinet with a few round buttons, a small gauge, and two indicator lights (one cyan, one green).
+- Add one small warning stripe (yellow/black) on a corner panel.
+- Optional: 1–2 utility ports (a pipe port ring and/or a cable conduit stub).
+
+Materials & colors
+- Muted warm gray and pale teal panels, rubber hoses, metal clamps, slightly worn edge highlights.
+- Small high-saturation functional accents only (warning yellow, orange, cyan indicator light).
+
+Quality constraints
+- Crisp sprite-like edges, single object only.
+- No readable text, no logos, no watermark.
