@@ -1,0 +1,28 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, clean readable silhouette, rounded corners, clear panel segmentation, subtle brush texture, soft shading with a consistent top light, gentle ambient occlusion in seams, minimal but purposeful mechanical details, not photorealistic.
+
+This is a ranch building that combines a small house-like control hut with a feed silo (farm theme).
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to read as 5 tiles wide x 3 tiles tall (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Silo + Control Hut (farmhouse silhouette)
+- Left 3/5: a small house-like hut with a shallow gable roof and one window; include a door panel and a tiny porch overhang.
+- Right 2/5: a vertical rounded feed silo cylinder with a domed top and a small ladder hint (simple rung shapes).
+- Connect hut to silo with a short enclosed pipe/duct bridge.
+- Add a feed output chute at the bottom of the silo leading toward the center.
+- Add two indicator lights on the hut (one cyan, one green) and a small warning stripe on the silo base.
+- Optional: one cable conduit and one pipe port ring near the bottom.
+
+Materials & colors
+- Hut: off-white/light gray with teal trim.
+- Silo: slightly darker gray steel with subtle edge wear.
+- Small orange safety accents.
+
+Quality constraints
+- Keep it readable and not too busy.
+- Single object only.
+- No readable text, no logos, no watermark.

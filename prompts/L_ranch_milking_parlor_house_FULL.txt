@@ -1,0 +1,29 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, clean readable silhouette, slightly exaggerated proportions, rounded corners, clear panel segmentation, subtle brush texture, soft shading with a consistent top light, gentle ambient occlusion in seams, minimal but purposeful details (hoses, clamps, gauges), not photorealistic.
+
+This is a ranch / critter husbandry building: a milking parlor that reads like a small house/barn.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to read as 5 tiles wide x 3 tiles tall (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Milking Parlor House (barn facade)
+- Overall silhouette: barn-house front with a gable roof and a centered “stall” bay.
+- Center: a large viewing window showing a simplified critter silhouette in a stall (minimal detail).
+- Below the window: a compact milking manifold with 2–3 short hoses and clamps (stylized, not too detailed).
+- Left: a small intake drawer with a handle and a drip tray.
+- Right: a control box with a gauge, a lever, and one cyan indicator light.
+- Roof: small vent stack with a cap; add one small warning indicator near the vent.
+- Bottom: thick base with bolts; add one liquid output port ring.
+
+Materials & colors
+- Muted gray body panels with pale teal accents.
+- Small orange safety accents and a yellow/black stripe on one panel.
+- Slight edge wear highlights.
+
+Quality constraints
+- Keep it readable; avoid clutter.
+- Single object only.
+- No readable text, no logos, no watermark.

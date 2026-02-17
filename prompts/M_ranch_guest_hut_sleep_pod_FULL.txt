@@ -1,0 +1,27 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, cute utilitarian, clean readable silhouette, rounded corners, clear panel lines, subtle brush texture, soft shading with a consistent top light, seam ambient occlusion, not photorealistic.
+
+This is a ranch-themed small house hut: a compact sleep/rest pod building that still looks like a tiny farmhouse.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to match a 5 tiles wide x 3 tiles tall footprint (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Guest Hut Sleep Pod (house silhouette)
+- Overall silhouette: tiny house with a rounded gable roof and a front awning.
+- Center: a large window revealing a simplified bunk/sleep capsule silhouette inside (very minimal).
+- Left: a small door with a round porthole window.
+- Right: a compact air/comfort unit (small fan vent + filter canister) attached externally.
+- Add one small porch lamp with a soft warm glow.
+- Bottom: thick base frame with bolts and a small cable conduit.
+- Optional: one small pipe port ring near the comfort unit.
+
+Materials & colors
+- Off-white/light gray panels with muted green accents.
+- Small cyan status indicator and one tiny orange safety accent.
+
+Quality constraints
+- Crisp 2D sprite look, single object only.
+- No readable text, no logos, no watermark.

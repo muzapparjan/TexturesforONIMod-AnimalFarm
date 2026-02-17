@@ -3,6 +3,9 @@ README (Jiemeng AI prompts for ONI-style ranch building sprite)
 What this folder contains
 - *.txt: FINAL full prompts. Each .txt file is a complete English prompt you can paste directly into Jiemeng AI.
 
+New additions
+- F–M: house/barn/cottage-shaped ranch building silhouettes (still 5x3 footprint), for a more “farmhouse” theme.
+
 Target
 - Game: Oxygen Not Included (Klei-like) art style.
 - Building type: ranch / critter husbandry building (牧场建筑).

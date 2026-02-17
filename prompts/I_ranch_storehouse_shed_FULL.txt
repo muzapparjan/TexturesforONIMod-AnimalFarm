@@ -1,0 +1,27 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, chunky simplified shapes, clean readable silhouette, rounded corners, clear panel lines, subtle brush texture, soft shading with a consistent top light, seam ambient occlusion, not photorealistic.
+
+This is a ranch / critter husbandry building: a storehouse shed (house-like) for feed, tools, and supplies.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to match a 5 tiles wide x 3 tiles tall footprint (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Ranch Storehouse Shed (gable roof + big doors)
+- Overall silhouette: simple gable roof and a boxy shed body.
+- Roof: two large panels with a ridge cap; add one small roof vent.
+- Front: large double storage doors with visible hinges and a chunky latch mechanism.
+- Left: a small side hatch with an inset “crate” panel (pure geometry, no text).
+- Right: a small wall-mounted gauge and one green indicator light.
+- Bottom: a sturdy base with a small ramp lip and bolt plates.
+- Optional: show one simplified feed sack silhouette behind a small viewing slot (very minimal, no labels).
+
+Materials & colors
+- Muted industrial gray body with warm yellow/orange accents.
+- Subtle worn edges and light grime near hinges.
+
+Quality constraints
+- Crisp sprite-like edges, single object only.
+- No readable text, no logos, no watermark.

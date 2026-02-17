@@ -1,0 +1,28 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi with a cute utilitarian feel, clean readable silhouette, rounded corners, clear panel lines, subtle brush texture, soft shading with a consistent top light, seam ambient occlusion, controlled detail density, not photorealistic.
+
+This is a ranch / critter husbandry building: a critter shelter that reads like a small cottage/house.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to read as 5 tiles wide x 3 tiles tall (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Critter Shelter Cottage (friendly)
+- Overall silhouette: house-like body with a rounded roof ridge (soft gable) and a slightly protruding front porch lip.
+- Front: a large arched doorway opening with a soft rubber flap curtain (suggested by 3–4 hanging strips).
+- Above the door: a small circular window (simple glass highlight).
+- Left: a tiny side window and a small vent grate.
+- Right: a small “heater/comfort” unit box with a warm glow bar and one yellow warning indicator.
+- Base: thick insulated footing with bolts and a small drain port.
+- Add 1–2 small decorative ranch cues as shapes only: a simple hoof-print emblem as a stamped panel relief, or a tiny hanging bell silhouette (no text).
+
+Materials & colors
+- Light beige/cream main body with muted green accents.
+- Roof in muted brown-gray metal; subtle brush texture.
+- Small orange safety accents and a cyan status indicator.
+
+Quality constraints
+- Crisp 2D sprite look, single object only.
+- No readable text, no logos, no watermark.

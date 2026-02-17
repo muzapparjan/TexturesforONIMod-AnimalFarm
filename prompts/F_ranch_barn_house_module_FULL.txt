@@ -1,0 +1,29 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, clean readable silhouette, slightly exaggerated proportions, rounded corners, clear panel segmentation, subtle brush texture, soft shading with a consistent top light, gentle ambient occlusion in seams, minimal but purposeful details (bolts, vents, hatches, indicator lights), not photorealistic.
+
+This is a ranch / critter husbandry building with a cozy “barn house” silhouette (house-like roofline) to fit an Animal Farm theme.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to match a 5 tiles wide x 3 tiles tall footprint (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Ranch Barn-House Module (gable roof)
+- Overall silhouette: a compact house facade with a simple gable roof (triangular roof cap) sitting on a chunky base frame.
+- Roof: 2–3 overlapping metal roof panels with rounded edges; add a small roof vent and a tiny weather vane-like fin (no text).
+- Center: a wide barn-style door panel (two-part door look, but closed), with a large X-brace shape as panel geometry (no letters).
+- Upper center: one rounded window with simple cross muntins (readable as a window, not tiny).
+- Left side: a small hay/feed intake hatch with a latch and a short chute lip.
+- Right side: a compact control box with 2 buttons and one cyan status light.
+- Bottom: thick skirting/base with bolts and one maintenance hatch.
+- Optional: one pipe port ring near the base and one cable conduit stub.
+
+Materials & colors
+- Muted warm gray body panels with pale teal accents.
+- Roof panels slightly darker gray; subtle edge wear highlights.
+- Small high-saturation functional accents only (warning yellow stripe on one corner, cyan/green indicator).
+
+Quality constraints
+- Crisp sprite-like edges, single object only.
+- No readable text, no logos, no watermark.

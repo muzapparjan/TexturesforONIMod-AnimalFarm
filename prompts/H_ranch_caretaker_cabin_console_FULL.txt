@@ -1,0 +1,29 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, cute but industrial, clean readable silhouette, rounded corners, clear panel segmentation, subtle brush texture, soft shading with a consistent top light, gentle ambient occlusion, minimal but purposeful details, not photorealistic.
+
+This is a ranch support building: a small caretaker cabin / ranch office that looks like a tiny house.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to match a 5 tiles wide x 3 tiles tall footprint (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Caretaker Cabin Console (house-like facade)
+- Overall silhouette: a compact house front with a shallow roof overhang.
+- Top: a small chimney/vent stack with a cap and one side vent.
+- Center: a door with a small rectangular window; add a rounded handle plate (no text).
+- Left: a large window (two panes) with soft reflections; inside, show a simplified silhouette of a desk lamp shape (very minimal).
+- Right: an exterior control panel mounted on the wall (dial + 2 buttons + one cyan indicator).
+- Bottom: a chunky base frame with a cable conduit and one utility port.
+- Add a tiny porch light fixture near the door (small warm glow).
+
+Materials & colors
+- Clean off-white/light gray panels with teal trims.
+- Slight edge wear and subtle grime in seams.
+- Small warning stripe (yellow/black) on one utility panel corner.
+
+Quality constraints
+- Readable shapes, not too busy.
+- Single object only.
+- No readable text, no logos, no watermark.
