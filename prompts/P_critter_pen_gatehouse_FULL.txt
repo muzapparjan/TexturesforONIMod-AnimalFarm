@@ -1,0 +1,30 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, ranch-themed, clean readable silhouette, chunky simplified shapes, rounded corners, clear panel segmentation, subtle brush texture, soft shading with consistent top light, gentle ambient occlusion, not photorealistic.
+
+This is a ranch / critter husbandry building: a pen gatehouse module (more like a barn gate than a residence).
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to match a 5 tiles wide x 3 tiles tall footprint (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Pen Gatehouse (barn gate + control)
+- Center: a large stable gate door with horizontal slats and chunky hinges (closed).
+- Door upper portion: a wide window slot with simple bars/mesh (not a residential window).
+- Left: a feed trough pocket with a removable tray.
+- Right: a simple ranch control post with lever + knob + one cyan indicator.
+- Top: a small roof cap/awning (shallow gable) just to suggest shelter, not a full house roof.
+- Ranch marker: a hanging circular tag/emblem from the awning with a cute animal head silhouette (icon only).
+- Add a blank rectangular placard frame (empty) on the right side for “manual hanging”.
+- Bottom: thick base frame with bolts and one utility port ring.
+
+Materials & colors
+- Warm gray/tan panels with pale teal accents.
+- Small warning stripe (yellow/black) only on one small corner.
+- Keep industrial pipes minimal.
+
+Quality constraints
+- Readable, not busy.
+- Single object only.
+- No readable text, no logos, no watermark.

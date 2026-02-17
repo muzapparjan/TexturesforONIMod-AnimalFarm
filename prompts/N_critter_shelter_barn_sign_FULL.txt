@@ -1,0 +1,32 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi with a cozy ranch vibe, clean readable silhouette, slightly exaggerated proportions, rounded corners, clear panel segmentation, subtle brush texture, soft shading with a consistent top light, gentle ambient occlusion in seams, not photorealistic.
+
+This is a ranch / critter husbandry shelter. It must read like a small animal barn/shed, NOT a human residential house.
+- Avoid residential cues: no curtains, no furniture, no mailbox, no chimney smoke, no “home” decor.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to match a 5 tiles wide x 3 tiles tall footprint (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Critter Shelter Barn with Signboard (ranch identity)
+- Overall silhouette: compact barn/shed with a simple gable roof on a sturdy base.
+- Front center: a wide stable door panel (closed) with a simple X-brace geometry and chunky hinges.
+- Door lower section: 2 small ventilation slots (rounded rectangles).
+- Left: a feed intake hatch with a latch and a short chute lip.
+- Right: a small caretaker control box (dial + 2 buttons) with one cyan status light.
+- Top ridge: small roof vent cap.
+- Very clear ranch marker: a hanging signboard above the door.
+  - Signboard is a rounded plaque with an embossed cute animal face silhouette (simple, icon-like; no text).
+  - Next to it, include a second blank rounded plaque area designed to be “replaceable” (empty, no text, slightly inset frame).
+- Bottom: straw/bed tray slot (stylized straw shapes behind a grill) and a small drain port.
+
+Materials & colors
+- Warm light beige or muted tan panels with muted teal accents.
+- Roof in muted brown-gray metal; subtle wear highlights.
+- Small orange/yellow safety accents only; keep industrial elements secondary.
+
+Quality constraints
+- Crisp sprite-like edges, single object only.
+- No readable text, no logos, no watermark.

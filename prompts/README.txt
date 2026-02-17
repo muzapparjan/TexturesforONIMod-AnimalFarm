@@ -5,6 +5,7 @@ What this folder contains
 
 New additions
 - F–M: house/barn/cottage-shaped ranch building silhouettes (still 5x3 footprint), for a more “farmhouse” theme.
+- N–U: stronger ranch/animal-shelter silhouettes (avoid human-house cues), includes cute animal icon sign + blank replaceable placard slots.
 
 Target
 - Game: Oxygen Not Included (Klei-like) art style.

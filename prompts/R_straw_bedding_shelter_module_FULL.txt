@@ -1,0 +1,29 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, cozy ranch aesthetic, clean readable silhouette, chunky simplified shapes, rounded corners, clear panel segmentation, subtle brush texture, soft shading with consistent top light, seam ambient occlusion, not photorealistic.
+
+This is a ranch / critter shelter building emphasizing bedding/straw comfort. It should not feel industrial.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to match a 5 tiles wide x 3 tiles tall footprint (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Straw Bedding Shelter (soft ranch)
+- Overall silhouette: simple gable roof + rounded barn body on a thick base.
+- Front center: a large opening with a rounded frame; inside show stylized straw bedding pile (simple curved strokes), not too detailed.
+- Add a low “half gate” panel across the bottom of the opening (closed), like a stable half-door.
+- Left: a small hay bale compartment behind a grate (iconic straw pattern).
+- Right: a minimal comfort control box (one knob + one cyan indicator) tucked discreetly.
+- Ranch marker: a hanging bell silhouette and a small animal-face medallion (icon shapes only, no text).
+- Include a blank plaque inset frame for customization (empty).
+
+Materials & colors
+- Warm tan/beige body panels with muted green accents.
+- Roof in muted brown-gray.
+- Minimal metal pipes; keep details soft and friendly.
+
+Quality constraints
+- Keep readability high; avoid clutter.
+- Single object only.
+- No readable text, no logos, no watermark.

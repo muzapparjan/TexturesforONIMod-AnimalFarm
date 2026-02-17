@@ -1,0 +1,27 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, ranch-themed, clean readable silhouette, rounded corners, clear panel lines, subtle brush texture, soft shading with consistent top light, gentle ambient occlusion, not photorealistic.
+
+This is a ranch / critter husbandry building: a combined water trough + shelter unit. It should feel like farm equipment, not a factory.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to read as 5 tiles wide x 3 tiles tall (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Water Trough Barn Unit (farm utility)
+- Overall silhouette: low barn canopy with a shallow gable roof; open front feel.
+- Bottom front: a large rounded water trough basin with a simple water surface highlight.
+- Behind trough: a stable wall panel with a small vent and a maintenance hatch.
+- Left: a pipe input port ring (water) but keep it small and unobtrusive.
+- Right: a small float gauge window (simple) and one cyan indicator.
+- Ranch marker: a cute animal-face sign hanging from the roof beam (icon only) and a second empty plaque frame.
+- Add a tiny hoof-print relief stamp on one panel (geometry only).
+
+Materials & colors
+- Warm gray/tan panels with muted teal accents.
+- Small orange safety accent; subtle edge wear.
+
+Quality constraints
+- Crisp 2D sprite look, single object only.
+- No readable text, no logos, no watermark.

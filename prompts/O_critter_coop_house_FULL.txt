@@ -1,0 +1,30 @@
+Create a 2D game building sprite texture in the art style of Oxygen Not Included (Klei-like): hand-painted cartoon industrial sci‑fi, cute utilitarian ranch machinery, clean readable silhouette, rounded corners, clear panel lines, subtle brush texture, soft shading with a consistent top light, seam ambient occlusion, not photorealistic.
+
+This is a ranch building for small critters that reads like a coop/pen structure, NOT a human house.
+- Avoid residential cues: no curtains, no household windows, no interior furniture.
+
+Camera & composition
+- Orthographic front view (flat), no perspective distortion.
+- Output at 4096x4096.
+- Compose the building to read as 5 tiles wide x 3 tiles tall (about 5:3) inside the square canvas, centered, correct proportions, no stretching.
+- Full building visible with small padding around.
+- Plain solid background color (pure magenta) for easy cutout.
+
+Design: Critter Coop House (coop-like, breathable)
+- Overall silhouette: gable roof + front mesh/vent panels like a coop.
+- Center: large arched entry opening with a rubber flap curtain (3–4 hanging strips).
+- Above entry: a wide mesh ventilation panel (hex/rounded grid pattern, simplified).
+- Left: a small nesting cubby module (3 small rounded cubbies stacked) with soft shadows.
+- Right: a compact feeder/waterer attachment module (small tank + short spout) and one cyan status light.
+- Top: tiny roof ridge vent.
+- Clear ranch marker: a cute animal face emblem as a raised medallion on the front panel (icon only; no text).
+- Include a dedicated empty “nameplate” inset frame (blank, no text) on one side panel.
+
+Materials & colors
+- Warm beige/cream main body with muted green accents.
+- Mesh/vents in darker gray-green.
+- Small orange safety accent and subtle edge wear.
+
+Quality constraints
+- Crisp 2D sprite look, single object only.
+- No readable text, no logos, no watermark.
